@@ -1,12 +1,5 @@
 # Build and binary
-.__pycache__/
-.build/
-.dist/
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+*__pycache__/
+*build/
+*dist/
+*.vscode/
